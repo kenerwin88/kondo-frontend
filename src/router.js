@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 import Home from './views/Home.vue';
-import Ping from './views/Ping.vue';
+import Overview from './views/Overview.vue';
 import Callback from './views/Callback.vue';
 import About from "./views/About.vue"
 
@@ -25,9 +25,9 @@ export default new Router({
       component: About,
     },
     {
-      path: '/ping',
-      name: 'Ping',
-      component: Ping,
+      path: '/overview',
+      name: 'Overview',
+      component: Overview,
     },
     {
       path: '/callback/github',

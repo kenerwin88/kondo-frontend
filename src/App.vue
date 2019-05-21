@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> |
-      <router-link to="/ping">Ping</router-link> |
+      <router-link to="/overview">Overview</router-link> |
       <a href="https://github.com/login/oauth/authorize?client_id=Iv1.e37b8bbbfd7d3d07">Login</a> |
       <router-link to="/callback/github">Callback</router-link>
     </div>
