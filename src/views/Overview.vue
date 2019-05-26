@@ -1,7 +1,7 @@
 <template>
   <div>
     <ul>
-      <li v-for="org in orgs">
+      <li v-for="org in orgs" :key="org">
         {{ org.name }} - {{ org.installation_id }}
       </li>
     </ul>
