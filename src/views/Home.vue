@@ -43,7 +43,7 @@
                 <div class="dropdown-menu">
                   <a href="../examples/landing.html" class="dropdown-item">Landing</a>
                   <a href="../examples/profile.html" class="dropdown-item">Profile</a>
-                  <a href="../examples/login.html" class="dropdown-item">Login</a>
+                  <a href="https://github.com/login/oauth/authorize?client_id=Iv1.e37b8bbbfd7d3d07" class="dropdown-item">Login</a>
                   <a href="../examples/register.html" class="dropdown-item">Register</a>
                 </div>
               </li>
@@ -78,7 +78,7 @@
                 </a>
               </li>
               <li class="nav-item d-none d-lg-block ml-lg-4">
-                <a href="https://www.creative-tim.com/product/argon-design-system" target="_blank"
+                <a href="https://github.com/login/oauth/authorize?client_id=Iv1.e37b8bbbfd7d3d07" target="_blank"
                    class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-cloud-download mr-2"></i>
@@ -680,60 +680,3 @@
     </footer>
   </div>
 </template>
-<!--  <div>-->
-<!--    <section class="section section-lg section-hero section-shaped">-->
-<!--      &lt;!&ndash; Background circles &ndash;&gt;-->
-<!--      <div class="shape shape-style-1 shape-default" style="border-bottom-left-radius: 0% 0%;-->
-<!--  border-bottom-right-radius: 90% 20%;">-->
-<!--        <span class="span-150"></span>-->
-<!--        <span class="span-50"></span>-->
-<!--        <span class="span-50"></span>-->
-<!--        <span class="span-75"></span>-->
-<!--        <span class="span-100"></span>-->
-<!--        <span class="span-75"></span>-->
-<!--        <span class="span-50"></span>-->
-<!--        <span class="span-100"></span>-->
-<!--        <span class="span-50"></span>-->
-<!--        <span class="span-100"></span>-->
-<!--      </div>-->
-<!--      <div class="container shape-container d-flex align-items-center py-lg">-->
-<!--        <div class="col px-0">-->
-<!--          <div class="row align-items-center justify-content-center">-->
-<!--            <div class="col-lg-6-text-center">-->
-<!--              <img src="../assets/brand/white.png" style="width: 200px;" class="img-fluid">-->
-
-<!--&lt;!&ndash;              <p class="lead text-white">&ndash;&gt;-->
-<!--&lt;!&ndash;                At a high level, Kondo.io gives you the following:&ndash;&gt;-->
-<!--&lt;!&ndash;              </p>&ndash;&gt;-->
-
-<!--&lt;!&ndash;              </ul>&ndash;&gt;-->
-<!--                                <div class="btn-wrapper mt-5">-->
-<!--                                  <a href="https://www.creative-tim.com/product/argon-design-system" class="btn btn-lg btn-white btn-icon mb-3 mb-sm-0">-->
-<!--                                    <span class="btn-inner&#45;&#45;icon"><i class="ni ni-cloud-download-95"></i></span>-->
-<!--                                    <span class="btn-inner&#45;&#45;text">View Repositories</span>-->
-<!--                                  </a>-->
-<!--                                  <a href="https://github.com/creativetimofficial/argon-design-system" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" target="_blank">-->
-<!--                                    <span class="btn-inner&#45;&#45;icon"><i class="fa fa-github"></i></span>-->
-<!--                                    <span class="btn-inner&#45;&#45;text">-->
-<!--                                    <span class="text-warning">Choose</span> Rooms</span>-->
-<!--                                  </a>-->
-<!--                                </div>-->
-
-<!--            </div>-->
-<!--          </div>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </section>-->
-<!--    <div class="container">-->
-<!--      <div class="row justify-content-center">-->
-<!--        <div class="col-lg-12">-->
-<!--          &lt;!&ndash; Basic elements &ndash;&gt;-->
-<!--          <h2 class="mb-5">-->
-<!--            <span>Basic Elements</span>-->
-<!--          </h2>-->
-<!--          &lt;!&ndash; Buttons &ndash;&gt;-->
-<!--          <h3 class="h4 text-success font-weight-bold mb-4">Buttons</h3>-->
-<!--        </div>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
